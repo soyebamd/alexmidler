@@ -66,7 +66,7 @@
 		
         
         
-        <article class="slider-button">
+         <article class="slider-button">
         	
         	<div class="text-wrapper">
 
