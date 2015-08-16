@@ -68,7 +68,9 @@
         
          <article class="slider-button">
         	
-        	<div class="text-wrapper">
+        <!--donate button-->
+        
+               <div class="text-wrapper">
 
         		<h2>Alex Midler's 4th annual "Roll-a-thon"</h2>
 
