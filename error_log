@@ -1,0 +1,1 @@
+[27-Mar-2015 04:08:46 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/kingti/public_html/clients/alex-midler/wp-content/themes/alexmidler/index.php on line 17

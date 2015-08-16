@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'ufonts_com_gothambold';
+    src: url('ufonts_com_gothambold.eot');
+    src: url('ufonts_com_gothambold.eot') format('embedded-opentype'),
+         url('ufonts_com_gothambold.woff2') format('woff2'),
+         url('ufonts_com_gothambold.woff') format('woff'),
+         url('ufonts_com_gothambold.ttf') format('truetype'),
+         url('ufonts_com_gothambold.svg#ufonts_com_gothambold') format('svg');
+}
+@font-face {
+    font-family: 'ufonts_com_gothamblack';
+    src: url('ufonts_com_gothamblack.eot');
+    src: url('ufonts_com_gothamblack.eot') format('embedded-opentype'),
+         url('ufonts_com_gothamblack.woff2') format('woff2'),
+         url('ufonts_com_gothamblack.woff') format('woff'),
+         url('ufonts_com_gothamblack.ttf') format('truetype'),
+         url('ufonts_com_gothamblack.svg#ufonts_com_gothamblack') format('svg');
+}
+
+@font-face {
+    font-family: 'ufonts_com_gothammedium';
+    src: url('ufonts_com_gothammedium.eot');
+    src: url('ufonts_com_gothammedium.eot') format('embedded-opentype'),
+         url('ufonts_com_gothammedium.woff2') format('woff2'),
+         url('ufonts_com_gothammedium.woff') format('woff'),
+         url('ufonts_com_gothammedium.ttf') format('truetype'),
+         url('ufonts_com_gothammedium.svg#ufonts_com_gothammedium') format('svg');
+}
+@font-face {
+    font-family: 'ufonts_com_gothambook';
+    src: url('ufonts_com_gothambook.eot');
+    src: url('ufonts_com_gothambook.eot') format('embedded-opentype'),
+         url('ufonts_com_gothambook.woff2') format('woff2'),
+         url('ufonts_com_gothambook.woff') format('woff'),
+         url('ufonts_com_gothambook.ttf') format('truetype'),
+         url('ufonts_com_gothambook.svg#ufonts_com_gothambook') format('svg');
+}
+
+@font-face {
+    font-family: 'ufonts_com_gothambookitalic';
+    src: url('ufonts_com_gothambookitalic.eot');
+    src: url('ufonts_com_gothambookitalic.eot') format('embedded-opentype'),
+         url('ufonts_com_gothambookitalic.woff2') format('woff2'),
+         url('ufonts_com_gothambookitalic.woff') format('woff'),
+         url('ufonts_com_gothambookitalic.ttf') format('truetype'),
+         url('ufonts_com_gothambookitalic.svg#ufonts_com_gothambookitalic') format('svg');
+}
