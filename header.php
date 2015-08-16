@@ -68,7 +68,7 @@
         
          <article class="slider-button">
         	
-        <!--donate button-->
+        <!--donate button--> 
         
                <div class="text-wrapper">
 
