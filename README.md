@@ -1,7 +1,7 @@
 # alexmidler
 <<<<<<< HEAD
 this is alex middler site backup
-dsfsdfdsf
+
 =======
 alexmidler project
 
