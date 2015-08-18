@@ -68,17 +68,12 @@
         
          <article class="slider-button">
         	
-        <!--donate button--> 
         
-               <div class="text-wrapper">
 
-        		<h2>Alex Midler's 4th annual "Roll-a-thon"</h2>
+         <a href="ttps://www.crowdrise.com/roll-a-thon"><img src="<?php bloginfo('template_directory'); ?>/images/slider1.jpg" class="header-image" alt="" /></a>
+       
+               
 
-        		<div class="donate-now"> <a  href="https://www.crowdrise.com/roll-a-thon">DONATE</a></div>
-
-        	</div>
-
-        <a href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php header_image(); ?>" class="header-image" alt="" /></a>
         </article>
         
         
